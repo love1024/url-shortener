@@ -6,7 +6,7 @@ import path from 'path';
 
 let mongoClient = mongodb.MongoClient;
 
-let mongourl = "mongodb://love1024:love1024@ds133231.mlab.com:33231/love-url-shortener";
+let mongourl = "mongodb://username:password@ds133231.mlab.com:33231/love-url-shortener";
 
 const port = 2500;
 
